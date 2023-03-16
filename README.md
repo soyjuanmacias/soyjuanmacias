@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Antonio Macías</h1>
+<h1 align="center">Hi 👋, I'm Juan Antonio Macías welcome to my Github profile</h1>
 <h3 align="center">A passionate surfer, freelance software architect and web dev teacher</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soyjuanmacias&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="soyjuanmacias" /> </p>
-
-<p align="center"> <a href="https://github.com/soyjuanmacias"><img src="https://github-profile-trophy.vercel.app/?username=soyjuanmacias&column=4&row=2&theme=dracula" alt="soyjuanmacias" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/soyjuanmacias" target="blank"><img src="https://img.shields.io/twitter/follow/soyjuanmacias?logo=twitter&style=for-the-badge" alt="soyjuanmacias" /></a> </p>
 
 -   🆓 I’m currently working as Freelance Developer for some companies who need some code magic or big projects
 
@@ -20,6 +14,11 @@
 -   📫 Contact me at **info@juanmacias.es**
 
 -   📚 Know about my experiences [https://www.linkedin.com/in/juan-antonio-macias/](https://www.linkedin.com/in/juan-antonio-macias/)
+
+<p align="center"> <a href="https://github.com/soyjuanmacias"><img src="https://github-profile-trophy.vercel.app/?username=soyjuanmacias&column=4&row=2&theme=dracula" alt="soyjuanmacias" /></a> </p>
+
+<!-- <p align="center"> <a href="https://twitter.com/soyjuanmacias" target="blank"><img src="https://img.shields.io/twitter/follow/soyjuanmacias?logo=twitter&style=for-the-badge" alt="soyjuanmacias" /></a> </p> -->
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -40,3 +39,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyjuanmacias&show_icons=true&locale=en" alt="soyjuanmacias" /></p>
 </br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyjuanmacias&" alt="soyjuanmacias" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soyjuanmacias&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="soyjuanmacias" /> </p>
