@@ -1,7 +1,10 @@
 <h1 align="center">Hi 🦄, I'm Juan Antonio Macías! Welcome to my Github profile</h1>
-<h3 align="left">A passionate surfer, freelance software architect and web dev teacher</h3>
+<h2 align="left">A passionate surfer, freelance software architect and web dev teacher</h2>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soyjuanmacias&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="soyjuanmacias" /> </p>
 
 <p align="center"> <a href="https://github.com/soyjuanmacias"><img src="https://github-profile-trophy.vercel.app/?username=soyjuanmacias&column=4&row=2&theme=dracula" alt="soyjuanmacias" /></a> </p>
+
 
 -   🆓 I’m currently working as Freelance Developer for some companies who need some code magic or big projects
 
@@ -20,14 +23,14 @@
 <!-- <p align="center"> <a href="https://twitter.com/soyjuanmacias" target="blank"><img src="https://img.shields.io/twitter/follow/soyjuanmacias?logo=twitter&style=for-the-badge" alt="soyjuanmacias" /></a> </p> -->
 
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/juan-antonio-macias" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="juan-antonio-macias" height="55" width="100" style="margin-right: 16px"/></a>
 <a href="https://twitter.com/soyjuanmacias" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="soyjuanmacias" height="30" width="40" style="margin-right: 16px"/></a>
 <a href="https://instagram.com/juan_sinlimites" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="juan_sinlimites" height="40" width="40" /></a>
 </p>
 </br>
-<h3 align="center">Favourite Stack ➡️ MERN</h3>
+<h2 align="center">Favourite Stack ➡️ MERN</h2>
 <p align="center"> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 16px"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 16px"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 16px"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </br>
@@ -39,5 +42,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyjuanmacias&show_icons=true&locale=en" alt="soyjuanmacias" /></p>
 </br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyjuanmacias&" alt="soyjuanmacias" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soyjuanmacias&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="soyjuanmacias" /> </p>
