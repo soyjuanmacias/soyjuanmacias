@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Antonio Macías welcome to my Github profile</h1>
-<h3 align="center">A passionate surfer, freelance software architect and web dev teacher</h3>
+<h3 align="left">A passionate surfer, freelance software architect and web dev teacher</h3>
+
+<p align="center"> <a href="https://github.com/soyjuanmacias"><img src="https://github-profile-trophy.vercel.app/?username=soyjuanmacias&column=4&row=2&theme=dracula" alt="soyjuanmacias" /></a> </p>
 
 -   🆓 I’m currently working as Freelance Developer for some companies who need some code magic or big projects
 
@@ -14,8 +16,6 @@
 -   📫 Contact me at **info@juanmacias.es**
 
 -   📚 Know about my experiences [https://www.linkedin.com/in/juan-antonio-macias/](https://www.linkedin.com/in/juan-antonio-macias/)
-
-<p align="center"> <a href="https://github.com/soyjuanmacias"><img src="https://github-profile-trophy.vercel.app/?username=soyjuanmacias&column=4&row=2&theme=dracula" alt="soyjuanmacias" /></a> </p>
 
 <!-- <p align="center"> <a href="https://twitter.com/soyjuanmacias" target="blank"><img src="https://img.shields.io/twitter/follow/soyjuanmacias?logo=twitter&style=for-the-badge" alt="soyjuanmacias" /></a> </p> -->
 
