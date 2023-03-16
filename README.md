@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Antonio Macías welcome to my Github profile</h1>
+<h1 align="center">Hi 🦄, I'm Juan Antonio Macías! Welcome to my Github profile</h1>
 <h3 align="left">A passionate surfer, freelance software architect and web dev teacher</h3>
 
 <p align="center"> <a href="https://github.com/soyjuanmacias"><img src="https://github-profile-trophy.vercel.app/?username=soyjuanmacias&column=4&row=2&theme=dracula" alt="soyjuanmacias" /></a> </p>
