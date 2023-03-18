@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/soyjuanmacias"><img src="https://github-profile-trophy.vercel.app/?username=soyjuanmacias&column=4&row=2&theme=dracula" alt="soyjuanmacias" /></a> </p>
 
 
--   🆓 I’m currently working as Freelance Developer for some companies who need some code magic or big projects
+-   🆓 I’m currently working as Freelance Developer for companies who need my code magic in big projects
 
 -   🧑‍🏫 I’m currently working on [Upgrade Hub](https://www.upgrade-hub.com/) as Web Development Lead Teacher
 
