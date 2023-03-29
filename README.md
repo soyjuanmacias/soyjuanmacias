@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🦄, I'm Juan Antonio Macías! Welcome to my Github profile</h1>
-<h2 align="left">A passionate surfer, freelance software architect and web dev teacher</h2>
+<h2 align="left">A passionate surfer, freelance software crafter and web dev teacher</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soyjuanmacias&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="soyjuanmacias" /> </p>
 
