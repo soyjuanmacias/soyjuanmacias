@@ -8,7 +8,7 @@
 
 -   🆓 I’m currently working as Freelance Developer for companies who need my code magic in big projects
 
--   🧑‍🏫 I’m currently working on [ISDI Coders](https://www.isdi.education/es), best world bootcamp 2021 - Web Development Instructor
+-   🧑‍🏫 I’m currently working on [Upgrade Hub](https://www.upgrade-hub.com) - Web Dev Lead Instructor
 
 -   👨‍💻 I’m currently working as freelance on [Bizum](https://github.com/Bizum) - Software Architect and Project Lead
 
