@@ -39,6 +39,6 @@
 </br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyjuanmacias&show_icons=true&locale=en&layout=compact" alt="soyjuanmacias" /></p>
 </br>
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyjuanmacias&show_icons=true&locale=en" alt="soyjuanmacias" /></p> -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-stats-soyjuanmacias.vercel.app/api?username=soyjuanmacias&show_icons=true&theme=radical&include_all_commits=true&locale=es" alt="soyjuanmacias" /></p> -->
 </br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyjuanmacias&" alt="soyjuanmacias" /></p>
